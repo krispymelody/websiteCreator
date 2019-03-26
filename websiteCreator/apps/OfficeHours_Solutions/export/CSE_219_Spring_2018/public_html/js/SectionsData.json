@@ -1,0 +1,29 @@
+
+{
+    "lectures":[
+        {
+            "section":"a",
+            "days":"?",
+            "time":"11:00AM-11:30AM",
+            "room":"?"
+        }
+    ],
+    "labs":[
+        {
+            "section":"?",
+            "day_time":"?",
+            "location":"?",
+            "ta_1":"?",
+            "ta_2":"?"
+        }
+    ],
+    "recitations":[
+        {
+            "section":"?",
+            "day_time":"?",
+            "location":"?",
+            "ta_1":"?",
+            "ta_2":"?"
+        }
+    ]
+}

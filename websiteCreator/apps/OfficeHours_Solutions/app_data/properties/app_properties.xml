@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the standard controls for an app from the Desktop Java Framework, so
+    it would not include things initialized for the workspace, which is
+    customizable.
+-->
+<properties>
+    <property_list>        
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS SETTINGS -->
+        <property name="APP_TITLE"	    value="Course Site Generator"></property>
+        <property name="APP_BANNER"         value="OfficeHoursWelcomeBanner.png"></property>
+	<property name="APP_LOGO"	    value="OfficeHoursLogo.png"></property>
+        <property name="APP_EXPORT_PAGE"    value="index.html"></property>
+        <property name="APP_HELP_PAGE"      value="Help.html"></property>
+        <property name="APP_ABOUT_PAGE"     value="About.html"></property>
+	<property name="APP_CSS"	    value="oh_style.css"></property>
+        <property name="APP_PATH_CSS"	    value="workspace/style/"></property>
+        <property name="APP_PATH_EXPORT"    value="./export/"></property>
+        <property name="APP_PATH_ICONS"     value="./images/icons/"></property>
+        <property name="APP_PATH_IMAGES"    value="./images/"></property>
+        <property name="APP_PATH_WEB"       value="./app_data/web/"></property>
+        <property name="PREF_WIDTH"         value="800"></property>
+        <property name="PREF_HEIGHT"        value="600"></property>
+        <property name="START_MAXIMIZED"    value="true"></property>
+
+        <!-- TOP TOOLBARS AND CONTROLS TO INCLUDE -->
+        <property name="HAS_WELCOME_DIALOG"     value="true"></property>
+        <property name="HAS_TOP_TOOLBAR"        value="true"></property>        
+        <property name="HAS_FILE_TOOLBAR"       value="true"></property>
+        <property name="HAS_NEW"                value="true"></property>
+        <property name="HAS_LOAD"               value="true"></property>
+        <property name="HAS_CLOSE"              value="true"></property>
+        <property name="HAS_SAVE"               value="true"></property>
+        <property name="HAS_SAVE_AS"            value="true"></property>
+        <property name="HAS_EXPORT"             value="true"></property>
+        <property name="HAS_EXIT"               value="true"></property>
+        <property name="HAS_CLIPBOARD_TOOLBAR"  value="false"></property>
+        <property name="HAS_UNDO_TOOLBAR"       value="true"></property>
+        <property name="HAS_HELP_TOOLBAR"       value="true"></property>
+        <property name="HAS_HELP"               value="true"></property>
+        <property name="HAS_LANGUAGE"           value="true"></property>
+        <property name="HAS_ABOUT"              value="true"></property>
+
+        <!-- PROGRAM ICON FILES - FILE TOOLBAR -->        
+        <property name="NEW_BUTTON_ICON"        value="New.png"></property>
+        <property name="LOAD_BUTTON_ICON"       value="Load.png"></property>
+        <property name="CLOSE_BUTTON_ICON"      value="Close.png"></property>
+        <property name="SAVE_BUTTON_ICON"       value="Save.png"></property>
+        <property name="SAVE_AS_BUTTON_ICON"    value="SaveAs.png"></property>
+        <property name="EXPORT_BUTTON_ICON"     value="Export.png"></property>
+        <property name="EXIT_BUTTON_ICON"       value="Exit.png"></property>
+
+        <!-- PROGRAM ICON FILES - CUT/COPY/PASTE TOOLBAR -->        
+        <property name="CUT_BUTTON_ICON"        value="Cut.png"></property>
+        <property name="COPY_BUTTON_ICON"       value="Copy.png"></property>
+        <property name="PASTE_BUTTON_ICON"      value="Paste.png"></property>
+
+        <!-- PROGRAM ICON FILES - UNDO/REDO TOOLBAR -->        
+        <property name="UNDO_BUTTON_ICON"       value="Undo.png"></property>
+        <property name="REDO_BUTTON_ICON"       value="Redo.png"></property>
+        
+        <!-- PROGRAM ICON FILES - FILE TOOLBAR -->        
+        <property name="LANGUAGE_BUTTON_ICON"   value="Language.png"></property>
+        <property name="HELP_BUTTON_ICON"       value="Help.png"></property>
+        <property name="ABOUT_BUTTON_ICON"      value="About.png"></property>
+
+        <!-- OH BUTTONS TOOLBAR -->
+        
+        <!-- THIS IS THE FILE WE'LL USE TO MAKE OUR EXPORTED WEB FILE -->
+
+        <!-- ENGLISH IS THE DEFAULT -->
+        <property name="DEFAULT_LANGUAGE"               value="English"></property>
+        <property name="ENGLISH_ABBREVIATION"           value="EN"></property>
+        <property name="GIBBERISH_ABBREVIATION"           value="GB"></property>
+        
+        <property name="DEFAULT_START_TIME"                 value="8:00am"></property>
+        <property name="DEFAULT_END_TIME"                   value="9:00pm"></property>
+        <property name="DEFAULT_STYLE_COMBO"                   value="sea_wolf.css"></property>
+
+    </property_list>
+    <property_options_list>
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>English</option>
+            <option>Gibberish</option>
+        </property_options>
+        <property_options name="SITE_BANNER_SUBJECT_OPTIONS">
+            <option>CSE</option>
+            <option>MAT</option>
+            <option>AMS</option>
+        </property_options>
+        <property_options name="SITE_BANNER_NUMBER_OPTIONS">
+            <option>219</option>
+            <option>220</option>
+            <option>385</option>
+        </property_options>
+        <property_options name="SITE_BANNER_SEMESTER_OPTIONS">
+            <option>Spring</option>
+            <option>Summer</option>
+            <option>Fall</option>
+            <option>Winter</option>
+        </property_options>
+        <property_options name="TIME_OPTIONS">
+            <option>8:00am</option>
+            <option>9:00am</option>
+            <option>10:00am</option>
+            <option>11:00am</option>
+            <option>12:00am</option>
+            <option>1:00pm</option>
+            <option>2:00pm</option>
+            <option>3:00pm</option>
+            <option>4:00pm</option>
+            <option>5:00pm</option>
+            <option>6:00pm</option>
+            <option>7:00pm</option>
+            <option>8:00pm</option>
+            <option>9:00pm</option>        
+        </property_options>
+        <property_options name="SCHEDULE_TYPE_OPTIONS">
+            <option>Holiday</option>
+            <option>Lecture</option>
+            <option>Reference</option>
+            <option>Recitation</option>
+            <option>HW</option>
+        </property_options>
+    </property_options_list>
+
+</properties>

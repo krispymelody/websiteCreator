@@ -1,0 +1,227 @@
+
+{
+    "startHour":"8",
+    "endHour":"21",
+    "instructor":{
+        "name":"",
+        "room":"",
+        "email":"",
+        "home_page":"",
+        "photo":"./images/RichardMcKenna.jpg",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-2:20pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-3pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:20pm"
+            }
+        ]
+    },
+    "grad_tas":[
+        {
+            "name":"Aarin Chase",
+            "email":"Aarin.Chase@stonybrook.edu",
+            "type":"Graduate"
+        },
+        {
+            "name":"Bo Cao",
+            "email":"Bo.Cao.1@stonybrook.edu",
+            "type":"Graduate"
+        },
+        {
+            "name":"Kaho Kui",
+            "email":"kaho.kui@stonybrook.edu",
+            "type":"Graduate"
+        },
+        {
+            "name":"Richard Huang",
+            "email":"yueyang.huang@stonybrook.edu",
+            "type":"Graduate"
+        }
+    ],
+    "undergrad_tas":[
+        {
+            "name":"Abraham Rosloff",
+            "email":"abraham.rosloff@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Anghel De Las Casas",
+            "email":"anghel.delascasas@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Dhruv Sheth",
+            "email":"dhruv.sheth@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Heng An Lin",
+            "email":"Hengan.lin@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Lei Song",
+            "email":"lei.song@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Mankirat Gulati",
+            "email":"mankirat.gulati@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Melanie Logan",
+            "email":"melanie.logan@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Michael McDonagh",
+            "email":"Michael.J.McDonagh@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Qihong Jiang",
+            "email":"qihong.jiang@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Sammi Wu Leung",
+            "email":"sammi.wuleung@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Stephen Chen",
+            "email":"stephen.chen@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Weihao Li",
+            "email":"weihao.li@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Xiangying Liu",
+            "email":"xiangying.liu@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Xiaoxiao Liu",
+            "email":"xiao.x.liu@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Zengxian Lin",
+            "email":"zengxian.lin@stonybrook.edu",
+            "type":"Undergraduate"
+        },
+        {
+            "name":"Zihao Wang",
+            "email":"zihao.wang.3@stonybrook.edu",
+            "type":"Undergraduate"
+        }
+    ],
+    "officeHours":[
+        {
+            "time":"11_00am",
+            "day":"MONDAY",
+            "name":"Melanie Logan"
+        },
+        {
+            "time":"11_00am",
+            "day":"WEDNESDAY",
+            "name":"Melanie Logan"
+        },
+        {
+            "time":"11_00am",
+            "day":"FRIDAY",
+            "name":"Xiangying Liu"
+        },
+        {
+            "time":"11_30am",
+            "day":"WEDNESDAY",
+            "name":"Melanie Logan"
+        },
+        {
+            "time":"11_30am",
+            "day":"THURSDAY",
+            "name":"Abraham Rosloff"
+        },
+        {
+            "time":"11_30am",
+            "day":"FRIDAY",
+            "name":"Xiangying Liu"
+        },
+        {
+            "time":"1_00pm",
+            "day":"MONDAY",
+            "name":"Michael McDonagh"
+        },
+        {
+            "time":"1_00pm",
+            "day":"MONDAY",
+            "name":"Zihao Wang"
+        },
+        {
+            "time":"1_00pm",
+            "day":"TUESDAY",
+            "name":"Anghel De Las Casas"
+        },
+        {
+            "time":"1_00pm",
+            "day":"WEDNESDAY",
+            "name":"Melanie Logan"
+        },
+        {
+            "time":"1_00pm",
+            "day":"WEDNESDAY",
+            "name":"Michael McDonagh"
+        },
+        {
+            "time":"1_00pm",
+            "day":"WEDNESDAY",
+            "name":"Qihong Jiang"
+        },
+        {
+            "time":"1_00pm",
+            "day":"FRIDAY",
+            "name":"Heng An Lin"
+        },
+        {
+            "time":"1_30pm",
+            "day":"MONDAY",
+            "name":"Michael McDonagh"
+        },
+        {
+            "time":"1_30pm",
+            "day":"MONDAY",
+            "name":"Sammi Wu Leung"
+        },
+        {
+            "time":"1_30pm",
+            "day":"TUESDAY",
+            "name":"Anghel De Las Casas"
+        },
+        {
+            "time":"1_30pm",
+            "day":"WEDNESDAY",
+            "name":"Michael McDonagh"
+        },
+        {
+            "time":"1_30pm",
+            "day":"WEDNESDAY",
+            "name":"Qihong Jiang"
+        },
+        {
+            "time":"1_30pm",
+            "day":"FRIDAY",
+            "name":"Heng An Lin"
+        }
+    ]
+}

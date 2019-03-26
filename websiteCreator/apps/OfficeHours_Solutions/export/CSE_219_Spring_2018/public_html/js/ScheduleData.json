@@ -1,0 +1,23 @@
+
+{
+    "startingMondayMonth":"12",
+    "startingMondayDay":"3",
+    "endingFridayMonth":"12",
+    "endingFridayDay":"28",
+    "holidays":[
+        {
+            "month":"12",
+            "day":"25",
+            "title":"Christmas",
+            "link":"a.com"
+        }
+    ],
+    "lectures":[
+    ],
+    "references":[
+    ],
+    "recitations":[
+    ],
+    "hws":[
+    ]
+}
